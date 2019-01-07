@@ -1,0 +1,47 @@
+{
+  "_from": "react-native-device-detection",
+  "_id": "react-native-device-detection@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-zz1er9GDyxNgHE4i2voyRfesWRc=",
+  "_location": "/react-native-device-detection",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-device-detection",
+    "name": "react-native-device-detection",
+    "escapedName": "react-native-device-detection",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-device-detection/-/react-native-device-detection-0.1.3.tgz",
+  "_shasum": "cf3d5eafd183cb13601c4e22dafa3245f7ac5917",
+  "_spec": "react-native-device-detection",
+  "_where": "/react-native",
+  "author": {
+    "name": "Joe Ipson"
+  },
+  "bugs": {
+    "url": "https://github.com/m0ngr31/react-native-device-detection/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple class to let your app figure out what type of device is being used (iOS/Android, Phone/Tablet).",
+  "homepage": "https://github.com/m0ngr31/react-native-device-detection#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-device-detection",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0ngr31/react-native-device-detection.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}

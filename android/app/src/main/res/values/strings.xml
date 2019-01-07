@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Turnstile</string>
+    <!--<style name="AppTheme" parent="@android:style/Theme.Black">-->
+        <!--<item name="android:windowBackground">@drawable/splash</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <!--<item name="android:windowFullscreen">true</item>-->
+        <!--<item name="android:windowContentOverlay">@null</item>-->
+    <!--</style>-->
+</resources>

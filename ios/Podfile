@@ -1,0 +1,30 @@
+target "FaceDetection" do
+    pod 'GoogleMobileVision/FaceDetector'
+    pod 'react-native-orientation', :path => '../node_modules/react-native-orientation'
+    pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+ 
+    pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
+
+    pod 'RNSVG', :path => '../node_modules/react-native-svg'
+
+    pod 'React', :path => '../node_modules/react-native', :subspecs => [
+    'DevSupport' , 'RCTImage' ,
+    'CxxBridge' ]
+    pod 'react-native-fcm', :path => '../node_modules/react-native-fcm'
+
+    pod 'RNDeviceInfo', :path => '../node_modules/react-native-device-info'
+
+    pod 'Firebase'
+    pod 'Firebase/Messaging'
+    pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+    pod 'Firebase/Core'
+#    post_install do |installer|
+#        installer.pods_project.targets.each do |target|
+#            if target.name == "React"
+#                target.remove_from_project
+#            end
+#        end
+#    end
+
+end
+
